@@ -3,6 +3,7 @@
 #include<string.h>
 
 static hotel big_hotel[300];
+static hotel big_hotel[200];
 static hotel middle_hotel[30];
 static hotel small_hotel[20];
 
