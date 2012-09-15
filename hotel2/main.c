@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 
-static hotel big_hotel[100];
+static hotel big_hotel[300];
 static hotel middle_hotel[30];
 static hotel small_hotel[20];
 
